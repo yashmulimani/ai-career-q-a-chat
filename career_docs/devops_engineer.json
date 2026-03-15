@@ -1,0 +1,33 @@
+{
+  "topic": "DevOps Engineer Career Path",
+  "category": "career",
+  "chunks": [
+    {
+      "text": "DevOps engineers focus on improving collaboration between development and operations teams. They automate building, testing, and deploying applications. DevOps practices improve software delivery speed and reliability. This role combines software engineering with infrastructure management.",
+      "tags": [
+        "devops",
+        "career",
+        "automation",
+        "infrastructure"
+      ]
+    },
+    {
+      "text": "DevOps engineers commonly work with Linux systems, scripting, and cloud infrastructure. Tools like Docker, Kubernetes, Jenkins, and Terraform are widely used. These tools automate deployments and infrastructure provisioning. DevOps engineers also monitor systems to ensure reliability.",
+      "tags": [
+        "devops",
+        "linux",
+        "cloud",
+        "skills"
+      ]
+    },
+    {
+      "text": "CI/CD pipelines are central to DevOps practices. Continuous integration ensures code changes are automatically tested. Continuous deployment allows applications to be released quickly and safely. Automation reduces manual work and prevents deployment errors.",
+      "tags": [
+        "devops",
+        "ci-cd",
+        "automation",
+        "career"
+      ]
+    }
+  ]
+}

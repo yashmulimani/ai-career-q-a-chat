@@ -1,0 +1,106 @@
+{
+  "topic": "backend_basics",
+  "category": "faq",
+  "faqs": [
+    {
+      "question": "What is a backend server?",
+      "answer": "A backend server processes client requests, performs logic, and interacts with databases before returning responses."
+    },
+    {
+      "question": "What is an API?",
+      "answer": "An API allows applications to communicate with each other. Backend services expose APIs for frontend clients."
+    },
+    {
+      "question": "What is REST?",
+      "answer": "REST is an architectural style for building APIs using HTTP methods like GET, POST, PUT, and DELETE."
+    },
+    {
+      "question": "What is middleware?",
+      "answer": "Middleware is software that runs between request and response processing. It is commonly used for logging and authentication."
+    },
+    {
+      "question": "What is server-side logic?",
+      "answer": "Server-side logic handles business operations such as authentication, data processing, and database interactions."
+    },
+    {
+      "question": "What is authentication?",
+      "answer": "Authentication verifies a user's identity using credentials like username and password."
+    },
+    {
+      "question": "What is authorization?",
+      "answer": "Authorization determines what actions an authenticated user is allowed to perform."
+    },
+    {
+      "question": "What is a database connection pool?",
+      "answer": "Connection pools manage reusable database connections. This improves performance and scalability."
+    },
+    {
+      "question": "What is input validation?",
+      "answer": "Input validation ensures user data meets expected formats. It prevents errors and security vulnerabilities."
+    },
+    {
+      "question": "What is rate limiting?",
+      "answer": "Rate limiting restricts the number of API requests from a client within a time window."
+    },
+    {
+      "question": "What is logging in backend systems?",
+      "answer": "Logging records application events. It helps developers debug issues and monitor system behavior."
+    },
+    {
+      "question": "What is a microservice?",
+      "answer": "A microservice is a small independent service responsible for a specific functionality."
+    },
+    {
+      "question": "What is session management?",
+      "answer": "Session management maintains user state across multiple requests."
+    },
+    {
+      "question": "What is server scalability?",
+      "answer": "Scalability refers to handling increased load by adding resources or distributing services."
+    },
+    {
+      "question": "What is backend caching?",
+      "answer": "Backend caching stores frequently accessed data to reduce database load."
+    },
+    {
+      "question": "What is asynchronous processing?",
+      "answer": "Asynchronous processing allows tasks to run without blocking other operations."
+    },
+    {
+      "question": "What is a message queue?",
+      "answer": "Message queues allow services to communicate asynchronously through queued messages."
+    },
+    {
+      "question": "What is a backend framework?",
+      "answer": "Backend frameworks like Express or Django provide structure for building server applications."
+    },
+    {
+      "question": "What is API versioning?",
+      "answer": "API versioning allows developers to evolve APIs without breaking existing clients."
+    },
+    {
+      "question": "What is data serialization?",
+      "answer": "Serialization converts data structures into formats like JSON for transmission."
+    },
+    {
+      "question": "What is error handling in backend systems?",
+      "answer": "Error handling ensures graceful responses when failures occur."
+    },
+    {
+      "question": "What is environment configuration?",
+      "answer": "Environment configuration stores settings like database credentials securely."
+    },
+    {
+      "question": "What is dependency injection?",
+      "answer": "Dependency injection provides components to classes rather than creating them internally."
+    },
+    {
+      "question": "What is backend security?",
+      "answer": "Backend security protects APIs from attacks such as SQL injection or authentication bypass."
+    },
+    {
+      "question": "What is load handling in servers?",
+      "answer": "Load handling ensures servers can process large numbers of requests efficiently."
+    }
+  ]
+}

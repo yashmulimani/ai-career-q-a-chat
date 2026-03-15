@@ -1,0 +1,33 @@
+{
+  "topic": "Data Engineer Career Path",
+  "category": "career",
+  "chunks": [
+    {
+      "text": "Data engineers design and build systems that collect, process, and store large volumes of data. They develop pipelines that move data between systems reliably. Their work enables data analysts and data scientists to analyze information effectively. Data engineering is critical in data-driven organizations.",
+      "tags": [
+        "data-engineering",
+        "career",
+        "data",
+        "pipelines"
+      ]
+    },
+    {
+      "text": "Data engineers work with tools such as Apache Spark, Kafka, and Hadoop to process big data. These technologies help manage distributed data processing tasks. They also use cloud data platforms like BigQuery or Redshift. Understanding distributed systems is important for large-scale data processing.",
+      "tags": [
+        "data-engineering",
+        "big-data",
+        "tools",
+        "skills"
+      ]
+    },
+    {
+      "text": "Data modeling and database design are key responsibilities of data engineers. They create schemas that allow efficient querying and storage. ETL processes transform raw data into usable formats. Efficient data infrastructure improves analytics and decision-making.",
+      "tags": [
+        "data",
+        "sql",
+        "etl",
+        "engineering"
+      ]
+    }
+  ]
+}

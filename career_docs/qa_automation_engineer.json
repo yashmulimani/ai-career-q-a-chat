@@ -1,0 +1,33 @@
+{
+  "topic": "QA Automation Engineer Career Path",
+  "category": "career",
+  "chunks": [
+    {
+      "text": "QA automation engineers ensure software quality through automated testing. They build frameworks that test applications automatically before release. Automated tests help detect bugs early and reduce manual testing effort. This improves product stability and reliability.",
+      "tags": [
+        "qa",
+        "testing",
+        "career",
+        "automation"
+      ]
+    },
+    {
+      "text": "Automation tools such as Selenium, Cypress, and Playwright are commonly used. These tools simulate user interactions and validate application behavior. Tests can be integrated into CI/CD pipelines. Automated testing ensures continuous quality checks during development.",
+      "tags": [
+        "testing",
+        "automation",
+        "qa",
+        "tools"
+      ]
+    },
+    {
+      "text": "QA engineers often write test scripts using programming languages like Java, Python, or JavaScript. Understanding application architecture helps create effective test cases. Collaboration with developers improves overall software quality. Automation skills are increasingly important in modern testing roles.",
+      "tags": [
+        "qa",
+        "programming",
+        "testing",
+        "skills"
+      ]
+    }
+  ]
+}

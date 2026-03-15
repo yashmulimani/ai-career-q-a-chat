@@ -1,0 +1,33 @@
+{
+  "topic": "Backend Developer Career Path",
+  "category": "career",
+  "chunks": [
+    {
+      "text": "Backend developers build the server side logic that powers applications and APIs. They manage databases, authentication systems, and business logic that runs behind the user interface. Their work ensures that applications are scalable, secure, and reliable. Backend systems allow frontend apps and mobile apps to communicate with servers efficiently.",
+      "tags": [
+        "backend",
+        "career",
+        "software",
+        "development"
+      ]
+    },
+    {
+      "text": "To become a backend developer, strong programming fundamentals are required. Popular backend languages include JavaScript with Node.js, Python, Java, and Go. Developers must understand data structures, algorithms, and asynchronous programming. These fundamentals help build scalable and efficient systems.",
+      "tags": [
+        "backend",
+        "programming",
+        "skills",
+        "career"
+      ]
+    },
+    {
+      "text": "Backend developers must understand databases and data modeling. This includes relational databases such as PostgreSQL and MySQL as well as NoSQL databases like MongoDB. Knowledge of indexing, transactions, and query optimization is essential. Efficient database usage improves application performance.",
+      "tags": [
+        "backend",
+        "databases",
+        "sql",
+        "skills"
+      ]
+    }
+  ]
+}

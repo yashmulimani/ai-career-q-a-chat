@@ -1,0 +1,33 @@
+{
+  "topic": "Machine Learning Engineer Career Path",
+  "category": "career",
+  "chunks": [
+    {
+      "text": "Machine learning engineers design systems that allow computers to learn from data. They develop models that perform predictions, classification, and pattern recognition. These systems power applications like recommendation engines and fraud detection systems. Machine learning engineers combine data science and software engineering skills.",
+      "tags": [
+        "machine-learning",
+        "career",
+        "ai",
+        "engineering"
+      ]
+    },
+    {
+      "text": "Machine learning engineers use programming languages such as Python and libraries like TensorFlow and PyTorch. These tools allow them to train and evaluate models efficiently. Data preprocessing and feature engineering are also important tasks. Strong mathematical and statistical foundations are beneficial.",
+      "tags": [
+        "machine-learning",
+        "python",
+        "ai",
+        "skills"
+      ]
+    },
+    {
+      "text": "Deploying machine learning models into production systems is another key responsibility. Engineers use cloud platforms and container technologies to scale models. Monitoring models ensures performance remains stable over time. Production ML systems require both engineering and analytical expertise.",
+      "tags": [
+        "mlops",
+        "machine-learning",
+        "deployment",
+        "career"
+      ]
+    }
+  ]
+}

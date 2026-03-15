@@ -1,0 +1,60 @@
+{
+  "topic": "docker",
+  "category": "tech_docs",
+  "chunks": [
+    {
+      "text": "Docker is an important concept in modern software development. It plays a key role in building scalable, maintainable,\nand efficient applications used in real-world systems. Developers use this technology or concept together with other\ntools in the tech stack to design reliable solutions. Understanding how docker works helps engineers make better\narchitectural and implementation decisions.",
+      "tags": [
+        "backend",
+        "software",
+        "engineering",
+        "technology"
+      ]
+    },
+    {
+      "text": "Docker is an important concept in modern software development. It plays a key role in building scalable, maintainable,\nand efficient applications used in real-world systems. Developers use this technology or concept together with other\ntools in the tech stack to design reliable solutions. Understanding how docker works helps engineers make better\narchitectural and implementation decisions.",
+      "tags": [
+        "cloud",
+        "software",
+        "engineering",
+        "technology"
+      ]
+    },
+    {
+      "text": "Docker is an important concept in modern software development. It plays a key role in building scalable, maintainable,\nand efficient applications used in real-world systems. Developers use this technology or concept together with other\ntools in the tech stack to design reliable solutions. Understanding how docker works helps engineers make better\narchitectural and implementation decisions.",
+      "tags": [
+        "cloud",
+        "software",
+        "engineering",
+        "technology"
+      ]
+    },
+    {
+      "text": "Docker is an important concept in modern software development. It plays a key role in building scalable, maintainable,\nand efficient applications used in real-world systems. Developers use this technology or concept together with other\ntools in the tech stack to design reliable solutions. Understanding how docker works helps engineers make better\narchitectural and implementation decisions.",
+      "tags": [
+        "frontend",
+        "software",
+        "engineering",
+        "technology"
+      ]
+    },
+    {
+      "text": "Docker is an important concept in modern software development. It plays a key role in building scalable, maintainable,\nand efficient applications used in real-world systems. Developers use this technology or concept together with other\ntools in the tech stack to design reliable solutions. Understanding how docker works helps engineers make better\narchitectural and implementation decisions.",
+      "tags": [
+        "software",
+        "engineering",
+        "technology",
+        "docker"
+      ]
+    },
+    {
+      "text": "Docker is an important concept in modern software development. It plays a key role in building scalable, maintainable,\nand efficient applications used in real-world systems. Developers use this technology or concept together with other\ntools in the tech stack to design reliable solutions. Understanding how docker works helps engineers make better\narchitectural and implementation decisions.",
+      "tags": [
+        "data",
+        "software",
+        "engineering",
+        "technology"
+      ]
+    }
+  ]
+}

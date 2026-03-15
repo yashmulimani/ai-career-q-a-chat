@@ -1,0 +1,106 @@
+{
+  "topic": "web_basics",
+  "category": "faq",
+  "faqs": [
+    {
+      "question": "What is HTML used for?",
+      "answer": "HTML defines the structure of web pages. It uses elements like headings, paragraphs, links, and images to organize content displayed in browsers."
+    },
+    {
+      "question": "What is CSS?",
+      "answer": "CSS is used to style HTML elements. It controls layout, colors, fonts, spacing, and responsiveness of web pages."
+    },
+    {
+      "question": "What is JavaScript in web development?",
+      "answer": "JavaScript is a programming language used to add interactivity to websites. It enables dynamic behavior like form validation, animations, and API calls."
+    },
+    {
+      "question": "What is the DOM?",
+      "answer": "The DOM (Document Object Model) represents a web page as a structured tree. JavaScript can manipulate the DOM to update page content dynamically."
+    },
+    {
+      "question": "What is a hyperlink?",
+      "answer": "A hyperlink connects one web resource to another. It allows users to navigate between pages using anchor tags in HTML."
+    },
+    {
+      "question": "What is responsive design?",
+      "answer": "Responsive design ensures websites work on different devices. It uses flexible layouts, CSS media queries, and scalable images."
+    },
+    {
+      "question": "What is a web server?",
+      "answer": "A web server stores and delivers website files to clients. Examples include Apache, Nginx, and IIS."
+    },
+    {
+      "question": "What is a browser rendering engine?",
+      "answer": "The rendering engine interprets HTML, CSS, and JavaScript to display web pages visually. Examples include Blink and WebKit."
+    },
+    {
+      "question": "What are meta tags?",
+      "answer": "Meta tags provide metadata about a webpage. They help with SEO, character encoding, and viewport settings."
+    },
+    {
+      "question": "What is caching in web browsers?",
+      "answer": "Browser caching stores static assets locally. This improves performance by avoiding repeated downloads."
+    },
+    {
+      "question": "What is a cookie?",
+      "answer": "Cookies are small pieces of data stored in the browser. They help maintain sessions and track user preferences."
+    },
+    {
+      "question": "What is local storage?",
+      "answer": "Local storage allows web applications to store data in the browser persistently. It is often used for saving user settings."
+    },
+    {
+      "question": "What is a web framework?",
+      "answer": "A web framework provides tools and structure for building web applications. Examples include React, Angular, and Vue."
+    },
+    {
+      "question": "What is SEO?",
+      "answer": "SEO (Search Engine Optimization) improves website visibility in search engines by optimizing content, keywords, and page structure."
+    },
+    {
+      "question": "What is accessibility in web design?",
+      "answer": "Accessibility ensures websites are usable by people with disabilities. It includes screen reader support and semantic HTML."
+    },
+    {
+      "question": "What is a CDN?",
+      "answer": "A CDN distributes website content across global servers. This reduces latency and improves loading speed."
+    },
+    {
+      "question": "What is lazy loading?",
+      "answer": "Lazy loading delays loading of images or resources until needed. It improves page performance."
+    },
+    {
+      "question": "What is the viewport?",
+      "answer": "Viewport defines the visible area of a web page on a device. It is configured using meta viewport tags."
+    },
+    {
+      "question": "What are web standards?",
+      "answer": "Web standards are guidelines defined by organizations like W3C. They ensure consistent behavior across browsers."
+    },
+    {
+      "question": "What is progressive enhancement?",
+      "answer": "Progressive enhancement builds basic functionality first and adds advanced features for capable browsers."
+    },
+    {
+      "question": "What is semantic HTML?",
+      "answer": "Semantic HTML uses meaningful tags like article, section, and nav to improve structure and accessibility."
+    },
+    {
+      "question": "What is cross-browser compatibility?",
+      "answer": "Cross-browser compatibility ensures websites work correctly across different browsers."
+    },
+    {
+      "question": "What is a web API?",
+      "answer": "A web API allows communication between systems over HTTP. APIs return data typically in JSON format."
+    },
+    {
+      "question": "What is page load performance?",
+      "answer": "Page load performance measures how quickly a website loads. Optimizing images and scripts improves speed."
+    },
+    {
+      "question": "What is client-side rendering?",
+      "answer": "Client-side rendering generates content in the browser using JavaScript frameworks."
+    }
+  ]
+}

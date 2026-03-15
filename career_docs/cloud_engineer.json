@@ -1,0 +1,33 @@
+{
+  "topic": "Cloud Engineer Career Path",
+  "category": "career",
+  "chunks": [
+    {
+      "text": "Cloud engineers design and maintain applications running on cloud platforms such as AWS, Azure, and Google Cloud. They focus on building scalable and reliable infrastructure using cloud services. Organizations rely on cloud engineers to manage distributed systems. Cloud computing allows applications to scale globally.",
+      "tags": [
+        "cloud",
+        "career",
+        "infrastructure",
+        "engineering"
+      ]
+    },
+    {
+      "text": "Cloud engineers must understand networking, storage, and compute services. Tools such as EC2, S3, Kubernetes, and managed databases are commonly used. Knowledge of cloud architecture helps design scalable systems. Engineers also monitor performance and optimize costs.",
+      "tags": [
+        "cloud",
+        "aws",
+        "infrastructure",
+        "skills"
+      ]
+    },
+    {
+      "text": "Infrastructure as code is widely used in cloud engineering. Tools like Terraform and CloudFormation allow infrastructure to be defined using code. This enables version control and automated deployments. Infrastructure automation improves reliability and repeatability.",
+      "tags": [
+        "cloud",
+        "terraform",
+        "iac",
+        "automation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "topic": "Frontend Developer Career Path",
+  "category": "career",
+  "chunks": [
+    {
+      "text": "Frontend developers create the user interface of web applications. They convert design ideas into interactive experiences using HTML, CSS, and JavaScript. Their work focuses on usability, responsiveness, and accessibility. A good frontend developer ensures smooth user experiences across devices.",
+      "tags": [
+        "frontend",
+        "career",
+        "ui",
+        "development"
+      ]
+    },
+    {
+      "text": "Modern frontend development uses frameworks such as React, Angular, and Vue. These frameworks help build reusable UI components and manage application state. Component-based architecture improves maintainability and scalability. Learning one major framework is essential for modern frontend roles.",
+      "tags": [
+        "frontend",
+        "frameworks",
+        "react",
+        "skills"
+      ]
+    },
+    {
+      "text": "Frontend developers must also optimize application performance. Techniques such as lazy loading, code splitting, and caching improve page load times. Performance optimization enhances user experience and search engine rankings. Developers often use browser developer tools to monitor performance.",
+      "tags": [
+        "frontend",
+        "performance",
+        "web",
+        "optimization"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "topic": "frontend_basics",
+  "category": "faq",
+  "faqs": [
+    {
+      "question": "What is a frontend framework?",
+      "answer": "Frontend frameworks provide reusable components and architecture for building user interfaces."
+    },
+    {
+      "question": "What is a component in frontend development?",
+      "answer": "A component is a reusable UI element that encapsulates structure, style, and behavior."
+    },
+    {
+      "question": "What is state in frontend applications?",
+      "answer": "State represents dynamic data that influences UI rendering."
+    },
+    {
+      "question": "What is props in React?",
+      "answer": "Props are inputs passed from parent components to child components."
+    },
+    {
+      "question": "What is virtual DOM?",
+      "answer": "Virtual DOM is a lightweight representation of the DOM used by frameworks to optimize updates."
+    },
+    {
+      "question": "What is UI responsiveness?",
+      "answer": "UI responsiveness ensures layouts adapt to different screen sizes."
+    },
+    {
+      "question": "What is CSS Flexbox?",
+      "answer": "Flexbox is a layout model for designing flexible and responsive layouts."
+    },
+    {
+      "question": "What is CSS Grid?",
+      "answer": "CSS Grid is a two\u2011dimensional layout system for creating complex web layouts."
+    },
+    {
+      "question": "What is frontend routing?",
+      "answer": "Frontend routing enables navigation between views without reloading the page."
+    },
+    {
+      "question": "What is a single page application?",
+      "answer": "SPA loads a single HTML page and dynamically updates content using JavaScript."
+    },
+    {
+      "question": "What is DOM event handling?",
+      "answer": "Event handling responds to user interactions like clicks or keyboard input."
+    },
+    {
+      "question": "What is form validation?",
+      "answer": "Form validation ensures users provide valid data before submission."
+    },
+    {
+      "question": "What is bundling in frontend development?",
+      "answer": "Bundling combines multiple JavaScript files into optimized packages."
+    },
+    {
+      "question": "What is code splitting?",
+      "answer": "Code splitting loads only required JavaScript to improve performance."
+    },
+    {
+      "question": "What is frontend performance optimization?",
+      "answer": "Optimization reduces load time by minimizing assets and improving rendering."
+    },
+    {
+      "question": "What is lazy loading in frontend apps?",
+      "answer": "Lazy loading loads components or images only when required."
+    },
+    {
+      "question": "What is accessibility in frontend development?",
+      "answer": "Accessibility ensures interfaces are usable by people with disabilities."
+    },
+    {
+      "question": "What is theming in UI systems?",
+      "answer": "Theming allows changing colors and styles globally in an application."
+    },
+    {
+      "question": "What is browser developer tools?",
+      "answer": "Developer tools help debug, inspect elements, and analyze performance."
+    },
+    {
+      "question": "What is CSS preprocessors?",
+      "answer": "Preprocessors like Sass extend CSS with variables and nesting."
+    },
+    {
+      "question": "What is frontend testing?",
+      "answer": "Frontend testing verifies UI behavior using tools like Jest or Cypress."
+    },
+    {
+      "question": "What is progressive web app?",
+      "answer": "PWA provides offline capability and native\u2011like features in web apps."
+    },
+    {
+      "question": "What is UI component library?",
+      "answer": "Component libraries provide ready\u2011to\u2011use UI elements."
+    },
+    {
+      "question": "What is frontend state management?",
+      "answer": "State management libraries help manage application data flow."
+    },
+    {
+      "question": "What is hydration in SSR frameworks?",
+      "answer": "Hydration attaches JavaScript to server\u2011rendered HTML for interactivity."
+    }
+  ]
+}

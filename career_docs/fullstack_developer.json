@@ -1,0 +1,33 @@
+{
+  "topic": "Full Stack Developer Career Path",
+  "category": "career",
+  "chunks": [
+    {
+      "text": "Full stack developers work on both frontend and backend systems. They build user interfaces, APIs, and database logic that power complete applications. This role requires knowledge across multiple layers of the technology stack. Full stack developers understand how all components of a system interact.",
+      "tags": [
+        "fullstack",
+        "career",
+        "development",
+        "software"
+      ]
+    },
+    {
+      "text": "Full stack developers typically learn frontend technologies such as HTML, CSS, JavaScript, and frameworks like React. On the backend they work with technologies such as Node.js, Django, or Spring Boot. They also manage databases and API communication. This combination allows them to build end-to-end systems.",
+      "tags": [
+        "fullstack",
+        "frontend",
+        "backend",
+        "skills"
+      ]
+    },
+    {
+      "text": "Understanding deployment and DevOps basics is valuable for full stack developers. They often deploy applications using cloud platforms or container technologies. CI/CD pipelines automate testing and deployment. These skills help developers deliver applications faster and more reliably.",
+      "tags": [
+        "fullstack",
+        "devops",
+        "deployment",
+        "career"
+      ]
+    }
+  ]
+}

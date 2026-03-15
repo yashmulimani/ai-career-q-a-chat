@@ -1,0 +1,33 @@
+{
+  "topic": "Cybersecurity Analyst Career Path",
+  "category": "career",
+  "chunks": [
+    {
+      "text": "Cybersecurity analysts protect systems and networks from digital threats. They monitor systems for suspicious activity and respond to security incidents. Their work helps protect sensitive data and maintain system integrity. As cyber threats grow, cybersecurity roles are becoming increasingly important.",
+      "tags": [
+        "cybersecurity",
+        "career",
+        "security",
+        "analysis"
+      ]
+    },
+    {
+      "text": "Cybersecurity professionals must understand networking, operating systems, and attack techniques. Tools such as intrusion detection systems and vulnerability scanners are commonly used. Security monitoring platforms help detect threats early. Analysts also conduct risk assessments and security audits.",
+      "tags": [
+        "security",
+        "networking",
+        "cybersecurity",
+        "skills"
+      ]
+    },
+    {
+      "text": "Cybersecurity teams implement strategies such as encryption, authentication, and access control. These mechanisms protect systems from unauthorized access. Security testing and penetration testing identify vulnerabilities. Strong security practices help organizations prevent data breaches.",
+      "tags": [
+        "cybersecurity",
+        "encryption",
+        "security",
+        "defense"
+      ]
+    }
+  ]
+}

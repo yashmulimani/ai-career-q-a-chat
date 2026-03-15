@@ -1,17 +1,6 @@
-📘 AI Career Coach
 Hybrid RAG Chatbot for Career Guidance
 
-
-
-
-
-
-
-
-
-
 An AI-powered career guidance chatbot that helps users explore technology careers, learning roadmaps, interview preparation, and technical knowledge.
-
 The system implements a Hybrid Retrieval-Augmented Generation (RAG) architecture combining:
 
 🔎 Vector search (semantic retrieval)
@@ -25,62 +14,41 @@ The system implements a Hybrid Retrieval-Augmented Generation (RAG) architecture
 This allows the chatbot to provide accurate, context-grounded, and up-to-date responses.
 
 🚀 Demo
-
 Example query:
-
 Give me the roadmap for becoming an AI/ML engineer
 
 Response includes:
-
-Programming foundations
-
-Machine learning concepts
-
-Deep learning frameworks
-
-Cloud & MLOps tools
-
-Projects and career guidance
+- Programming foundations
+- Machine learning concepts
+- Deep learning frameworks
+- Cloud & MLOps tools
+- Projects and career guidance
 
 ✨ Features
 🤖 AI Career Guidance
-
 Ask questions about:
-
-Career paths in technology
-
-Required skills for roles
-
-Career transitions
-
-Industry trends
-
-Example:
-
-Is AI a good career in 2026?
+- Career paths in technology
+- Required skills for roles
+- Career transitions
+- Industry trends
+- Example:
+- Is AI a good career in 2026?
+- 
 🗺 Career Roadmaps
-
 The chatbot provides structured roadmaps for roles like:
 
-AI / ML Engineer
-
-Cloud Engineer
-
-DevOps Engineer
-
-Backend Developer
-
-Data Engineer
-
-Mobile Developer
+- AI / ML Engineer
+- Cloud Engineer
+- DevOps Engineer
+- Backend Developer
+- Data Engineer
+- Mobile Developer
 
 Example:
-
 Give me a roadmap for becoming a Cloud Engineer
 📚 Knowledge-Grounded Answers
 
 The chatbot retrieves information from curated documents stored in:
-
 career_docs/
 faq_docs/
 tech_docs/
@@ -88,50 +56,35 @@ Interview_qa_docs/
 roadmap_docs/
 
 These include:
-
-career explanations
-
-technology knowledge
-
-FAQs
-
-interview preparation
-
-learning roadmaps
+- career explanations
+- technology knowledge
+- FAQs
+- interview preparation
+- learning roadmaps
 
 🔍 Hybrid Retrieval System
 
 The chatbot combines two retrieval methods:
 
 1️⃣ Semantic Search
-
 Uses sentence-transformer embeddings stored in a Chroma vector database.
-
 This allows the model to understand meaning, not just keywords.
 
 Example:
-
 DevOps roadmap
-
 will match:
-
 DevOps learning path
+
 2️⃣ Keyword Search (BM25)
-
 BM25 improves recall by matching exact keywords.
-
 This ensures the chatbot retrieves the most relevant documents.
 
 🌐 Web Search Fallback
-
 If the knowledge base lacks sufficient information, the chatbot performs DuckDuckGo web search to retrieve external information.
-
 This allows the assistant to answer questions about recent trends and new technologies.
 
 💬 Interactive Chat UI
-
 The application uses Streamlit to create a clean and interactive chat interface.
-
 Users can interact with the AI just like a conversational assistant.
 
 🧠 System Architecture
@@ -155,16 +108,18 @@ Mistral-7B Large Language Model
      │
      ▼
 AI Response
+
 ⚙️ Tech Stack
-Component	Technology
-Frontend	Streamlit
-LLM	Mistral-7B (HuggingFace)
-Embeddings	sentence-transformers
-Vector Database	Chroma
-Keyword Search	BM25
-Web Search	DuckDuckGo
-Framework	LangChain
-Language	Python
+Component	               Technology
+Frontend	               Streamlit
+LLM	                    Mistral-7B (HuggingFace)
+Embeddings	          sentence-transformers
+Vector Database	     Chroma
+Keyword Search	          BM25
+Web Search	          DuckDuckGo
+Framework	               LangChain
+Language	               Python
+
 📂 Project Structure
 AI-Career-Coach
 │
@@ -180,77 +135,3 @@ AI-Career-Coach
 ├── roadmap_docs/         # Career roadmaps
 │
 └── .env                  # API keys (ignored)
-🛠 Installation
-1️⃣ Clone the repository
-git clone https://github.com/YOUR_USERNAME/ai-career-coach-rag.git
-cd ai-career-coach-rag
-2️⃣ Create virtual environment
-python -m venv venv
-
-Activate it:
-
-Windows
-
-venv\Scripts\activate
-
-Mac/Linux
-
-source venv/bin/activate
-3️⃣ Install dependencies
-pip install -r requirements.txt
-4️⃣ Add environment variables
-
-Create a .env file:
-
-HUGGINGFACEHUB_API_TOKEN=your_token_here
-▶️ Run the Application
-
-Start the chatbot:
-
-streamlit run app.py
-
-The chat interface will open in your browser.
-
-💬 Example Queries
-Give me the roadmap for becoming a DevOps engineer
-What skills are required for a Cloud Engineer?
-Common machine learning interview questions
-Explain Docker in simple terms
-🎯 AI Engineering Concepts Demonstrated
-
-This project demonstrates several key AI system design concepts:
-
-Retrieval-Augmented Generation (RAG)
-
-Vector embeddings
-
-Hybrid retrieval (vector + keyword)
-
-Prompt engineering
-
-LLM integration
-
-Knowledge-grounded AI assistants
-
-Web-augmented generation
-
-🔮 Future Improvements
-
-Possible enhancements:
-
-Persistent vector database
-
-Source citation in responses
-
-Resume analysis & career recommendations
-
-Personalized learning paths
-
-Career skill gap analysis
-
-👨‍💻 Author
-
-Yash Mulimani
-
-Computer Science Student
-AI / Machine Learning Enthusiast

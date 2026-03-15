@@ -1,0 +1,19 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment variables
+.env
+
+# Ignore local experiments
+Feature3/
+
+# Ignore PDF knowledge file
+Career_Guide_RAG.pdf
+
+# Ignore OS files
+.DS_Store
+Thumbs.db

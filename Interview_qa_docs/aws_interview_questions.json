@@ -1,0 +1,18 @@
+{
+  "topic": "aws_interview_questions",
+  "category": "interview_questions",
+  "faqs": [
+    {
+      "question": "What is Amazon EC2?",
+      "answer": "EC2 is a cloud service that provides scalable virtual servers for running applications."
+    },
+    {
+      "question": "What is Amazon S3?",
+      "answer": "Amazon S3 is an object storage service designed for storing and retrieving large amounts of data."
+    },
+    {
+      "question": "What is AWS Lambda?",
+      "answer": "AWS Lambda is a serverless compute service that runs code in response to events without managing servers."
+    }
+  ]
+}

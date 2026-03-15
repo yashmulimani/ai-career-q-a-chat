@@ -1,0 +1,44 @@
+{
+  "topic": "frontend_learning_path",
+  "category": "roadmap_graph",
+  "nodes": [
+    {
+      "id": "html",
+      "label": "HTML"
+    },
+    {
+      "id": "css",
+      "label": "CSS"
+    },
+    {
+      "id": "javascript",
+      "label": "JavaScript"
+    },
+    {
+      "id": "react",
+      "label": "React"
+    },
+    {
+      "id": "nextjs",
+      "label": "Next.js"
+    }
+  ],
+  "edges": [
+    {
+      "source": "html",
+      "target": "css"
+    },
+    {
+      "source": "css",
+      "target": "javascript"
+    },
+    {
+      "source": "javascript",
+      "target": "react"
+    },
+    {
+      "source": "react",
+      "target": "nextjs"
+    }
+  ]
+}

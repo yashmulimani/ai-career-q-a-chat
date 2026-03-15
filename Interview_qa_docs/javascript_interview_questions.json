@@ -1,0 +1,18 @@
+{
+  "topic": "javascript_interview_questions",
+  "category": "interview_questions",
+  "faqs": [
+    {
+      "question": "What is closure in JavaScript?",
+      "answer": "A closure is a function that retains access to variables from its outer scope even after the outer function has finished executing."
+    },
+    {
+      "question": "What is event delegation?",
+      "answer": "Event delegation is a technique where a single event listener handles events for multiple elements using event bubbling."
+    },
+    {
+      "question": "What is the difference between let and var?",
+      "answer": "let is block-scoped while var is function-scoped, which can lead to different behaviors in loops and conditions."
+    }
+  ]
+}

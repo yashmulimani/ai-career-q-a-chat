@@ -1,0 +1,18 @@
+{
+  "topic": "python_interview_questions",
+  "category": "interview_questions",
+  "faqs": [
+    {
+      "question": "What is Python?",
+      "answer": "Python is a high-level programming language known for its readability and extensive libraries."
+    },
+    {
+      "question": "What are Python decorators?",
+      "answer": "Decorators are functions that modify the behavior of another function without changing its code."
+    },
+    {
+      "question": "What is a Python list comprehension?",
+      "answer": "List comprehension provides a concise way to create lists using a single line of code."
+    }
+  ]
+}

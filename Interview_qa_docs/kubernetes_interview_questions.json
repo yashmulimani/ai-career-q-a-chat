@@ -1,0 +1,18 @@
+{
+  "topic": "kubernetes_interview_questions",
+  "category": "interview_questions",
+  "faqs": [
+    {
+      "question": "What is Kubernetes?",
+      "answer": "Kubernetes is a container orchestration platform used to automate deployment, scaling, and management of containerized applications."
+    },
+    {
+      "question": "What is a Pod in Kubernetes?",
+      "answer": "A Pod is the smallest deployable unit in Kubernetes. It represents one or more containers that share storage and networking."
+    },
+    {
+      "question": "What is a Deployment in Kubernetes?",
+      "answer": "A Deployment manages a set of identical Pods and ensures the desired number of replicas are running."
+    }
+  ]
+}

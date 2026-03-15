@@ -1,0 +1,18 @@
+{
+  "topic": "database_sql_questions",
+  "category": "interview_questions",
+  "faqs": [
+    {
+      "question": "What is normalization in databases?",
+      "answer": "Normalization is the process of organizing data to reduce redundancy and improve data integrity. It divides large tables into smaller related tables."
+    },
+    {
+      "question": "What is an index in SQL?",
+      "answer": "An index is a data structure used to speed up data retrieval operations. It works similarly to a book index by allowing quick lookups."
+    },
+    {
+      "question": "What is a JOIN in SQL?",
+      "answer": "A JOIN combines rows from two or more tables based on a related column between them."
+    }
+  ]
+}

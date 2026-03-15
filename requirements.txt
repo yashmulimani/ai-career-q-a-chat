@@ -1,0 +1,18 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+
+# Hugging Face LLM + embeddings
+langchain-huggingface
+huggingface-hub
+sentence-transformers
+
+# Vector store
+faiss-cpu
+
+# UI
+streamlit
+
+# Environment variables
+python-dotenv

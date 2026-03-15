@@ -1,0 +1,18 @@
+{
+  "topic": "system_design_foundation_questions",
+  "category": "interview_questions",
+  "faqs": [
+    {
+      "question": "What is scalability in system design?",
+      "answer": "Scalability refers to a system's ability to handle increasing workloads by adding resources such as servers or databases."
+    },
+    {
+      "question": "What is load balancing?",
+      "answer": "Load balancing distributes incoming traffic across multiple servers to ensure no single server becomes overloaded."
+    },
+    {
+      "question": "What is horizontal scaling?",
+      "answer": "Horizontal scaling involves adding more machines to a system to handle increased demand."
+    }
+  ]
+}

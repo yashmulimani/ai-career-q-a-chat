@@ -1,0 +1,18 @@
+{
+  "topic": "react_interview_questions",
+  "category": "interview_questions",
+  "faqs": [
+    {
+      "question": "What is React?",
+      "answer": "React is a JavaScript library used to build user interfaces through reusable components."
+    },
+    {
+      "question": "What are React hooks?",
+      "answer": "Hooks are functions that allow React components to manage state and lifecycle features without classes."
+    },
+    {
+      "question": "What is the virtual DOM?",
+      "answer": "The virtual DOM is a lightweight copy of the real DOM used by React to optimize rendering performance."
+    }
+  ]
+}

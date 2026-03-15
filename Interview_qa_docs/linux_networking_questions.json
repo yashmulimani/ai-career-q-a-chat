@@ -1,0 +1,18 @@
+{
+  "topic": "linux_networking_questions",
+  "category": "interview_questions",
+  "faqs": [
+    {
+      "question": "Explain a key concept related to this topic.",
+      "answer": "Candidates should clearly explain the concept, provide real-world examples, and discuss best practices."
+    },
+    {
+      "question": "Why is this concept important in software engineering?",
+      "answer": "Understanding this concept helps developers design efficient and reliable systems."
+    },
+    {
+      "question": "What tools are commonly used in this area?",
+      "answer": "Developers typically use industry-standard tools and frameworks depending on the technology stack."
+    }
+  ]
+}

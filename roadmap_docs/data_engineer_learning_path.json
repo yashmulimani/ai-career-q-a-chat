@@ -1,0 +1,44 @@
+{
+  "topic": "data_engineer_learning_path",
+  "category": "roadmap_graph",
+  "nodes": [
+    {
+      "id": "python",
+      "label": "Python"
+    },
+    {
+      "id": "sql",
+      "label": "SQL"
+    },
+    {
+      "id": "etl",
+      "label": "ETL Pipelines"
+    },
+    {
+      "id": "bigdata",
+      "label": "Big Data Tools"
+    },
+    {
+      "id": "data_warehousing",
+      "label": "Data Warehousing"
+    }
+  ],
+  "edges": [
+    {
+      "source": "python",
+      "target": "sql"
+    },
+    {
+      "source": "sql",
+      "target": "etl"
+    },
+    {
+      "source": "etl",
+      "target": "bigdata"
+    },
+    {
+      "source": "bigdata",
+      "target": "data_warehousing"
+    }
+  ]
+}

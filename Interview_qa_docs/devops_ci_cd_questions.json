@@ -1,0 +1,18 @@
+{
+  "topic": "devops_ci_cd_questions",
+  "category": "interview_questions",
+  "faqs": [
+    {
+      "question": "What is CI/CD?",
+      "answer": "CI/CD stands for Continuous Integration and Continuous Deployment. It automates testing and deployment processes."
+    },
+    {
+      "question": "What is a CI pipeline?",
+      "answer": "A CI pipeline automatically builds and tests code when developers commit changes."
+    },
+    {
+      "question": "What is infrastructure as code?",
+      "answer": "Infrastructure as code allows infrastructure to be managed using configuration files instead of manual setup."
+    }
+  ]
+}

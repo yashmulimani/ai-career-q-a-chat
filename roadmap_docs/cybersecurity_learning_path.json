@@ -1,0 +1,44 @@
+{
+  "topic": "cybersecurity_learning_path",
+  "category": "roadmap_graph",
+  "nodes": [
+    {
+      "id": "networking",
+      "label": "Networking"
+    },
+    {
+      "id": "linux",
+      "label": "Linux"
+    },
+    {
+      "id": "security_basics",
+      "label": "Security Basics"
+    },
+    {
+      "id": "penetration_testing",
+      "label": "Penetration Testing"
+    },
+    {
+      "id": "security_tools",
+      "label": "Security Tools"
+    }
+  ],
+  "edges": [
+    {
+      "source": "networking",
+      "target": "linux"
+    },
+    {
+      "source": "linux",
+      "target": "security_basics"
+    },
+    {
+      "source": "security_basics",
+      "target": "penetration_testing"
+    },
+    {
+      "source": "penetration_testing",
+      "target": "security_tools"
+    }
+  ]
+}

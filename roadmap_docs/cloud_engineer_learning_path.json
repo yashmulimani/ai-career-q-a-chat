@@ -1,0 +1,44 @@
+{
+  "topic": "cloud_engineer_learning_path",
+  "category": "roadmap_graph",
+  "nodes": [
+    {
+      "id": "networking",
+      "label": "Networking Basics"
+    },
+    {
+      "id": "linux",
+      "label": "Linux"
+    },
+    {
+      "id": "cloud_platforms",
+      "label": "AWS/GCP/Azure"
+    },
+    {
+      "id": "containers",
+      "label": "Containers"
+    },
+    {
+      "id": "automation",
+      "label": "Infrastructure as Code"
+    }
+  ],
+  "edges": [
+    {
+      "source": "networking",
+      "target": "linux"
+    },
+    {
+      "source": "linux",
+      "target": "cloud_platforms"
+    },
+    {
+      "source": "cloud_platforms",
+      "target": "containers"
+    },
+    {
+      "source": "containers",
+      "target": "automation"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "topic": "mobile_developer_learning_path",
+  "category": "roadmap_graph",
+  "nodes": [
+    {
+      "id": "programming",
+      "label": "Programming (Kotlin/Swift)"
+    },
+    {
+      "id": "ui",
+      "label": "Mobile UI"
+    },
+    {
+      "id": "apis",
+      "label": "API Integration"
+    },
+    {
+      "id": "state",
+      "label": "State Management"
+    },
+    {
+      "id": "deployment",
+      "label": "App Store Deployment"
+    }
+  ],
+  "edges": [
+    {
+      "source": "programming",
+      "target": "ui"
+    },
+    {
+      "source": "ui",
+      "target": "apis"
+    },
+    {
+      "source": "apis",
+      "target": "state"
+    },
+    {
+      "source": "state",
+      "target": "deployment"
+    }
+  ]
+}

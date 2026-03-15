@@ -1,0 +1,18 @@
+{
+  "topic": "backend_api_questions",
+  "category": "interview_questions",
+  "faqs": [
+    {
+      "question": "What is a REST API?",
+      "answer": "A REST API is an architectural style for designing networked applications. It uses HTTP methods such as GET, POST, PUT, and DELETE to perform operations on resources. REST APIs are stateless and commonly return JSON responses."
+    },
+    {
+      "question": "What is idempotency in APIs?",
+      "answer": "Idempotency means making the same request multiple times results in the same outcome. HTTP methods like GET and PUT are typically idempotent. This property helps make APIs more reliable in distributed systems."
+    },
+    {
+      "question": "What is API versioning?",
+      "answer": "API versioning allows developers to introduce changes without breaking existing clients. Common approaches include URL versioning like /v1/users or header-based versioning."
+    }
+  ]
+}

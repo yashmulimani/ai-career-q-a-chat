@@ -1,0 +1,44 @@
+{
+  "topic": "devops_learning_path",
+  "category": "roadmap_graph",
+  "nodes": [
+    {
+      "id": "linux",
+      "label": "Linux"
+    },
+    {
+      "id": "scripting",
+      "label": "Shell/Python Scripting"
+    },
+    {
+      "id": "containers",
+      "label": "Docker"
+    },
+    {
+      "id": "orchestration",
+      "label": "Kubernetes"
+    },
+    {
+      "id": "ci_cd",
+      "label": "CI/CD Pipelines"
+    }
+  ],
+  "edges": [
+    {
+      "source": "linux",
+      "target": "scripting"
+    },
+    {
+      "source": "scripting",
+      "target": "containers"
+    },
+    {
+      "source": "containers",
+      "target": "orchestration"
+    },
+    {
+      "source": "orchestration",
+      "target": "ci_cd"
+    }
+  ]
+}

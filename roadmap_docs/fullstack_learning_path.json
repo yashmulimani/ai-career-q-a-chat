@@ -1,0 +1,44 @@
+{
+  "topic": "fullstack_learning_path",
+  "category": "roadmap_graph",
+  "nodes": [
+    {
+      "id": "html_css_js",
+      "label": "HTML CSS JavaScript"
+    },
+    {
+      "id": "frontend_framework",
+      "label": "Frontend Framework"
+    },
+    {
+      "id": "backend_api",
+      "label": "Backend APIs"
+    },
+    {
+      "id": "database",
+      "label": "Database"
+    },
+    {
+      "id": "deployment",
+      "label": "Deployment"
+    }
+  ],
+  "edges": [
+    {
+      "source": "html_css_js",
+      "target": "frontend_framework"
+    },
+    {
+      "source": "frontend_framework",
+      "target": "backend_api"
+    },
+    {
+      "source": "backend_api",
+      "target": "database"
+    },
+    {
+      "source": "database",
+      "target": "deployment"
+    }
+  ]
+}

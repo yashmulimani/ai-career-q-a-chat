@@ -1,0 +1,44 @@
+{
+  "topic": "backend_learning_path",
+  "category": "roadmap_graph",
+  "nodes": [
+    {
+      "id": "programming",
+      "label": "Programming (Python/Java/Node)"
+    },
+    {
+      "id": "http",
+      "label": "HTTP & REST APIs"
+    },
+    {
+      "id": "databases",
+      "label": "Databases"
+    },
+    {
+      "id": "frameworks",
+      "label": "Backend Frameworks"
+    },
+    {
+      "id": "deployment",
+      "label": "Deployment"
+    }
+  ],
+  "edges": [
+    {
+      "source": "programming",
+      "target": "http"
+    },
+    {
+      "source": "http",
+      "target": "databases"
+    },
+    {
+      "source": "databases",
+      "target": "frameworks"
+    },
+    {
+      "source": "frameworks",
+      "target": "deployment"
+    }
+  ]
+}

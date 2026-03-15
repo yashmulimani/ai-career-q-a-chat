@@ -1,0 +1,9 @@
+Frontend developers require HTML, CSS, JavaScript, React, accessibility, and performance optimization skills.
+
+Backend developers work with APIs, databases, authentication, and scalability using Node.js, Python, Java, and SQL.
+
+Data scientists need statistics, Python, machine learning, data visualization, and project experience.
+
+AI engineers focus on deep learning, NLP, transformers, model deployment, and MLOps.
+
+Projects are essential to demonstrate real-world problem-solving skills and practical knowledge.

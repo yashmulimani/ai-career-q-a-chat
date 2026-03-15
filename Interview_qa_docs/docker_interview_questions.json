@@ -1,0 +1,18 @@
+{
+  "topic": "docker_interview_questions",
+  "category": "interview_questions",
+  "faqs": [
+    {
+      "question": "What is Docker?",
+      "answer": "Docker is a containerization platform used to package applications and their dependencies into containers that run consistently across environments."
+    },
+    {
+      "question": "What is a Docker image?",
+      "answer": "A Docker image is a lightweight template used to create containers. It includes the application code and dependencies."
+    },
+    {
+      "question": "What is the difference between a container and an image?",
+      "answer": "An image is a blueprint for containers, while a container is a running instance of an image."
+    }
+  ]
+}

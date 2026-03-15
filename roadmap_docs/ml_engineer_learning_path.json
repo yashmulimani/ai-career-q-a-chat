@@ -1,0 +1,44 @@
+{
+  "topic": "ml_engineer_learning_path",
+  "category": "roadmap_graph",
+  "nodes": [
+    {
+      "id": "python",
+      "label": "Python"
+    },
+    {
+      "id": "math",
+      "label": "Math & Statistics"
+    },
+    {
+      "id": "ml",
+      "label": "Machine Learning"
+    },
+    {
+      "id": "deep_learning",
+      "label": "Deep Learning"
+    },
+    {
+      "id": "deployment",
+      "label": "Model Deployment"
+    }
+  ],
+  "edges": [
+    {
+      "source": "python",
+      "target": "math"
+    },
+    {
+      "source": "math",
+      "target": "ml"
+    },
+    {
+      "source": "ml",
+      "target": "deep_learning"
+    },
+    {
+      "source": "deep_learning",
+      "target": "deployment"
+    }
+  ]
+}
